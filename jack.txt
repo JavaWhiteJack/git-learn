@@ -1,4 +1,7 @@
 this is jack
 i 'm rose
 new branch
+<<<<<<< HEAD
 this is master
+invoke flict:wq
+feature1
