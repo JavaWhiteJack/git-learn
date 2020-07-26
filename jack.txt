@@ -1,16 +1,1 @@
-this is jack
-i 'm rose
-new branch
-this is master
-invoke flict:wq
-feature1
-this is test
-1111
-dev
-2222
-3333
-no ff
-no ff2
-fix bug
-dev kaifa
-dev kaifa2
+first
