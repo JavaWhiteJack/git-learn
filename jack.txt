@@ -12,4 +12,3 @@ dev
 no ff
 no ff2
 fix bug
-stash
