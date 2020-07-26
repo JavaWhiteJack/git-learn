@@ -6,3 +6,5 @@ invoke flict:wq
 feature1
 this is test
 1111
+dev
+2222
